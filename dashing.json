@@ -1,0 +1,16 @@
+{
+    "name": "Vue Router",
+    "package": "Vue Router",
+    "index": "./router.vuejs.org/index.html",
+    "selectors": {
+        "p.sidebar-heading span": "Guide",
+        "h1": "Section",
+        "h2": "Section"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "./router.vuejs.org/logo.png",
+    "allowJS": true,
+    "ExternalURL": "https://router.vuejs.org/"
+}
